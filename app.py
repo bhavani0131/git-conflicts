@@ -1,6 +1,6 @@
 # app.py
 
-system_type = "Linux"
+system_type = "Windows"
 port = 1000
 
 print("Starting Server...")
